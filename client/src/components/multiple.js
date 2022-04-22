@@ -33,7 +33,7 @@
 //      'My SQL',
 //      'MongoDB',
 //      'HTML',
-//     'CSS', 
+//     'CSS',
 //     'JavaScript/jQuery'
 // ];
 
